@@ -1,0 +1,49 @@
+Threat_Name,Threat_Class,Subtype,Range_km,Speed_Type,Altitude_Profile,Payload,Country
+9M22 Grad,Rocket,Katyusha,20,Unknown,Low trajectory,6 kg HE,Hezbollah
+Fajr-1,Rocket,Artillery Rocket,11,Unknown,Low trajectory,50 kg HE,Hezbollah
+Falaq-2,Rocket,Artillery Rocket,11,Unknown,Low trajectory,120 kg HE,Hezbollah
+Shahin-1,Rocket,Artillery Rocket,13,Unknown,Low trajectory,190 kg HE,Hezbollah
+Type-81,Rocket,Cluster Rocket,20.5,Unknown,Low trajectory,Submunitions,Hezbollah
+Fajr-3,Rocket,Artillery Rocket,43,Unknown,Low trajectory,45 kg HE,Hezbollah
+Fajr-5,Rocket,Artillery Rocket,75,Unknown,Low trajectory,90 kg HE,Hezbollah
+Raad-2,Rocket,Artillery Rocket,70,Unknown,Low trajectory,50 kg HE,Hezbollah
+Khaibar-1,Rocket,Artillery Rocket,100,Unknown,Low trajectory,150 kg HE,Hezbollah
+Zelzal-1,Ballistic Missile,SRBM,160,Unknown,Ballistic,600 kg HE,Hezbollah
+Zelzal-2,Ballistic Missile,SRBM,210,Unknown,Ballistic,600 kg HE,Hezbollah
+Fateh-110,Ballistic Missile,SRBM,300,Unknown,Ballistic,500 kg HE,Hezbollah
+M-600,Ballistic Missile,SRBM,300,Unknown,Ballistic,500 kg HE,Hezbollah
+C-802,Cruise Missile,Anti-Ship,120,Subsonic,Sea-skimming,165 kg HE,Hezbollah
+Yakhont,Cruise Missile,Anti-Ship,300,Supersonic,Sea-skimming,250 kg HE,Russia
+ATACMS,Ballistic Missile,SRBM,300,Supersonic,Ballistic,Unknown,USA
+Pershing 2,Ballistic Missile,MRBM,1700,High supersonic,Ballistic,Unknown,USA
+Minuteman III,Ballistic Missile,ICBM,13000,Hypersonic,Ballistic,Nuclear capable,USA
+Peacekeeper,Ballistic Missile,ICBM,9600,Hypersonic,Ballistic,Nuclear capable,USA
+Tomahawk,Cruise Missile,LACM,2500,Subsonic,Low altitude,450 kg,USA
+Trident D5,Ballistic Missile,SLBM,12000,Hypersonic,Ballistic,Nuclear capable,USA
+SCALP EG,Cruise Missile,ALCM,550,Subsonic,Low altitude,450 kg,France
+DF-11,Ballistic Missile,SRBM,300,High supersonic,Ballistic,Unknown,China
+DF-15,Ballistic Missile,SRBM,600,High supersonic,Ballistic,Unknown,China
+DF-17,Hypersonic Missile,HGV,2500,Hypersonic,Glide vehicle,Unknown,China
+DF-21,Ballistic Missile,MRBM,2150,Hypersonic,Ballistic,Unknown,China
+DF-26,Ballistic Missile,IRBM,4000,Hypersonic,Ballistic,Unknown,China
+DF-41,Ballistic Missile,ICBM,15000,Hypersonic,Ballistic,Nuclear capable,China
+Agni-I,Ballistic Missile,SRBM,1200,Hypersonic,Ballistic,1000 kg,India
+Agni-II,Ballistic Missile,MRBM,3500,Hypersonic,Ballistic,1000 kg,India
+Agni-III,Ballistic Missile,IRBM,5000,Hypersonic,Ballistic,1500 kg,India
+Agni-V,Ballistic Missile,ICBM,8000,Hypersonic,Ballistic,1500 kg,India
+BrahMos,Cruise Missile,Supersonic Cruise,500,Supersonic,Low altitude,300 kg,India
+Nirbhay,Cruise Missile,Subsonic Cruise,1000,Subsonic,Low altitude,300 kg,India
+Iskander,Ballistic Missile,SRBM,500,Hypersonic,Ballistic,700 kg,Russia
+Kalibr,Cruise Missile,LACM,2500,Subsonic,Low altitude,450 kg,Russia
+Kh-47M2 Kinzhal,Hypersonic Missile,ALBM,2000,Hypersonic,Ballistic,500 kg,Russia
+RS-28 Sarmat,Ballistic Missile,ICBM,16000,Hypersonic,Ballistic,Nuclear capable,Russia
+Shaheen-1,Ballistic Missile,SRBM,900,Hypersonic,Ballistic,1000 kg,Pakistan
+Shaheen-2,Ballistic Missile,MRBM,2000,Hypersonic,Ballistic,1000 kg,Pakistan
+Shaheen-3,Ballistic Missile,MRBM,2750,Hypersonic,Ballistic,1000 kg,Pakistan
+Emad,Ballistic Missile,MRBM,1700,Hypersonic,Ballistic,750 kg,Iran
+Ghadr-1,Ballistic Missile,MRBM,1950,Hypersonic,Ballistic,750 kg,Iran
+Sejjil,Ballistic Missile,MRBM,2000,Hypersonic,Ballistic,700 kg,Iran
+Qiam-1,Ballistic Missile,SRBM,800,Hypersonic,Ballistic,750 kg,Iran
+Shahab-3,Ballistic Missile,MRBM,1300,Hypersonic,Ballistic,750 kg,Iran
+Zolfaghar,Ballistic Missile,SRBM,700,Hypersonic,Ballistic,500 kg,Iran
+Soumar,Cruise Missile,LACM,3000,Subsonic,Low altitude,450 kg,Iran
